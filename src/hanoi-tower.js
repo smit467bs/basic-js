@@ -39,7 +39,7 @@ function calculateHanoi(disksNumber, turnsSpeed) {
 	// remove line with error and write your code here
 }
 
-// console.log(calculateHanoi(9, 4308));
+
 module.exports = {
 	calculateHanoi
 };
